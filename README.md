@@ -15,3 +15,13 @@ GeekPark JavaScript 编码规范
   }
 }
 ```
+并安装依赖项 `yarn add xxx --dev`
+``` json
+"eslint": "^3.19.0",
+"eslint-config-standard": "^6.2.1",
+"eslint-friendly-formatter": "^3.0.0",
+"eslint-loader": "^1.7.1",
+"eslint-plugin-html": "^3.0.0",
+"eslint-plugin-promise": "^3.4.0",
+"eslint-plugin-standard": "^2.0.1",
+```
