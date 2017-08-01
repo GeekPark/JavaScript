@@ -27,3 +27,5 @@ GeekPark JavaScript 编码规范
 ```
 
 2. 后端 `node.js` 项目中, 推荐使用 `sublime` 编辑器, 安装 `SublimeLinter`, `SublimeLinter-contrib-standard`, `StandardFormat` 插件, 保存自动格式化(类似 golang) doge:
+
+[//]: # (StandardFormat 装完之后整个编辑器都卡了, 你是不会看到这句的, 滑稽)
