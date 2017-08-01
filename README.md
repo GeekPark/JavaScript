@@ -25,3 +25,5 @@ GeekPark JavaScript 编码规范
 "eslint-plugin-promise": "^3.4.0",
 "eslint-plugin-standard": "^2.0.1",
 ```
+
+2. 后端 `node.js` 项目中, 推荐使用 `sublime` 编辑器, 安装 `SublimeLinter`, `SublimeLinter-contrib-standard`, `StandardFormat` 插件, 保存自动格式化(类似 golang) doge:
